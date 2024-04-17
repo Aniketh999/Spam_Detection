@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🔭 I’m currently working on learning MERN and ML to work on various projects
 - 🌱 I’m Interested to work on open source projects
-- 👯 I’m making the world better by exploring 
-- 💬 Ask me about Technology 
 - 📫 How to reach me: aniketh3690@gmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science(AI&ML)
 
