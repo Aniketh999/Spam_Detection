@@ -34,4 +34,7 @@ src="https://img.shields.io/github/followers/Aniketh999?logo=github&style=for-th
 
 <a href="http://www.github.com/Aniketh999"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dipayansarkar47&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketh999&show_icons=true&locale=en" alt="aniketh999" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketh999&" alt="aniketh999" /></p>
 
