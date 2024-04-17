@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) There I'm Anil S
 ======================================================================================================================================
-<h4>A Passionate student learning Full-Stack and Machine Learning in python, Learning DSA to improve my problem-solving skills and to get placed, much love to explore various projects in Full-stack , ML Apllications and also MERN Stack</h4>
+<h4>A Passionate student learning Full-Stack and Machine Learning in python, Learning DSA to improve my problem-solving skills and to get placed, very much interested to explore various projects in Full-stack , ML Apllications and also MERN Stack</h4>
 
 - 🔭 I’m currently working on learning MERN and ML to work on various projects
 - 🌱 I’m Interested to work on open source projects
