@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://github.com/Aniketh999" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Aniketh999?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipayansarkar47&label=Profile%20views&color=0e75b6&style=flat" alt="Aniketh999" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aniketh999&label=Profile%20views&color=0e75b6&style=flat" alt="Aniketh999" /> </p>
 
 <p align="left"> <h1> Connect with me </h1> <a href="https://twitter.com/codewithbiki" target="blank"> alt="Aniketh99" /></a> </p>
 
