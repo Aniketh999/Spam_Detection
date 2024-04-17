@@ -1,9 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) There I'm Anil S
+<h1 align="center" >Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) There I'm Anil S</h1>
 ======================================================================================================================================
-<h4>A Passionate student learning Full-Stack and Machine Learning in python, Learning DSA to improve my problem-solving skills and to get placed, very much interested to explore various projects in Full-stack , ML Apllications and also MERN Stack</h4>
+<h3 align="center" >A Passionate student learning Full-Stack and Machine Learning in python, Learning DSA to improve my problem-solving skills and to get placed, very much interested to explore various projects in Full-stack , ML Apllications and also MERN Stack</h3>
 
-- 🔭 I’m currently working on learning MERN and ML to work on various projects
-- 🌱 I’m Interested to work on open source projects
+- 🔭 I’m currently working on **learning MERN and ML to work on various projects**
+- 🌱 I’m Interested to work on **Various Machine Learning & open source projects**
 - 📫 How to reach me: aniketh3690@gmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science(AI&ML)
 
