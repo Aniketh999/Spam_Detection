@@ -1,6 +1,7 @@
-<h1 align="center" >Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) There I'm Anil S</h1>
-======================================================================================================================================
-<h3 align="center" >A Passionate student learning Full-Stack and Machine Learning in python, Learning DSA to improve my problem-solving skills and to get placed, very much interested to explore various projects in Full-stack , ML Apllications and also MERN Stack</h3>
+<h1 align="center">Hi 👋, I'm Anil s</h1>
+<h3 align="center">A Passionate student learning Full-Stack and Machine Learning in python, Learning DSA to improve my problem-solving skills and to get placed, much love to explore various projects in Full-stack , ML Applications and also MERN Stack</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketh999&label=Profile%20views&color=0e75b6&style=flat" alt="aniketh999" /> </p>
 
 - 🔭 I’m currently working on **learning MERN and ML to work on various projects**
 - 🌱 I’m Interested to work on **Various Machine Learning & open source projects**
