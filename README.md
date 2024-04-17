@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anil s</h1>
 <h3 align="center">A Passionate student learning Full-Stack and Machine Learning in python, Learning DSA to improve my problem-solving skills and to get placed, much love to explore various projects in Full-stack , ML Applications and also MERN Stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketh999&label=Profile%20views&color=0e75b6&style=flat" alt="aniketh999" /> </p>
-
 - 🔭 I’m currently working on **learning MERN and ML to work on various projects**
 - 🌱 I’m Interested to work on **Various Machine Learning & open source projects**
 - 📫 How to reach me: aniketh3690@gmail.com
