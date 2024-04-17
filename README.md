@@ -13,7 +13,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 src="https://img.shields.io/github/followers/Aniketh999?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aniketh999&label=Profile%20views&color=0e75b6&style=flat" alt="Aniketh999" /> </p>
 
-<p align="left"> <h1> Connect with me </h1> <a href="https://leetcode.com/Aniketh09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Aniketh09" height="30" width="40" /></a>
+<p align="left"> <h1> Connect with me </h1> <a href="https://leetcode.com/Aniketh09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Aniketh09" height="30" width="40" /></a>  <a href="https://linkedin.com/in/ani-keth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ani-keth" height="30" width="40" /></a>
+
  </p>
 
 <h3 align="left">Languages:</h3>
