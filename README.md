@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anil s</h1>
-<h3 align="center">A Passionate student learning Full-Stack and Machine Learning in python, Learning DSA to improve my problem-solving skills and to get placed, much love to explore various projects in Full-stack , ML Applications and also MERN Stack</h3>
+<h3 align="center">A Passionate student learning Full-Stack and Machine Learning in python, Learning DSA to improve my problem-solving skills, much love to explore various projects in Full-stack , ML Applications and also MERN Stack</h3>
 
 - 🔭 I’m currently working on **learning MERN and ML to work on various projects**
 - 🌱 I’m Interested to work on **Various Machine Learning & open source projects**
